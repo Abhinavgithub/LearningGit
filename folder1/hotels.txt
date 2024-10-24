@@ -1,3 +1,7 @@
 Marriot
 Taj
+<<<<<<< HEAD
 Bonvoy
+=======
+Novotel
+>>>>>>> dark-mode
